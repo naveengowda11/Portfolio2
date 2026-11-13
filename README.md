@@ -1,6 +1,6 @@
 # Naveen Kumar B — 3D Developer Portfolio
 
-A responsive, futuristic developer portfolio featuring an interactive Three.js hero visual, professional portrait, subtle motion, project showcases, skills, experience, education and contact links.
+A responsive, futuristic developer portfolio featuring an cinematic full-bleed professional portrait hero, responsive editorial layout, subtle motion, project showcases, skills, experience, education and contact links.
 
 ## Live preview
 Deploy with **GitHub Pages**: Settings → Pages → Deploy from a branch → `main` → `/(root)`.
@@ -20,7 +20,7 @@ Open http://localhost:8000.
 - `index.html` — portfolio content and layout
 - `style.css` — visual design and responsive styling
 - `app.js` — navigation, animated role text and scroll effects
-- `main.js` — interactive Three.js hero scene
+- `main.js` — Three.js scene module (kept available for future visual experiments)
 - `assets/naveen-profile.jpg` — professional portrait used in the hero and About sections
 - `assets/Naveen_Kumar_B_Resume.pdf` — résumé
 - `assets/favicon.svg` — site icon
