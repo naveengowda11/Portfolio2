@@ -33,3 +33,7 @@ html[data-theme="light"]{color-scheme:light;--bg:#f1f0ec;--surface:#fffefa;--sur
 .hero-art .art-coordinate{left:6%;bottom:14%;font-size:9px}
 .hero-art .art-bottom{bottom:4%}
 @media(max-width:700px){.hero-art .orbital-core{width:min(67%,300px);top:49%}.hero-art:before{width:78%;left:11%;top:12%}.hero-art .label-a{top:7%}.hero-art .label-b{bottom:16%}}
+
+/* Header theme control: align with the primary navigation */
+.site-header nav .theme-toggle{flex:0 0 39px;margin:0 1px}
+@media(max-width:700px){.site-header nav .theme-toggle{align-self:flex-start;margin:12px 0}}
